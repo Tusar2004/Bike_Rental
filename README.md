@@ -187,4 +187,4 @@ Contributions to improve Velo Rapido are welcome. Please feel free to submit a P
 
 ---
 
-Made with ❤️ by Tusar
+Made with ❤️ by Tusar[@Tusar2004]
