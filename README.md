@@ -10,7 +10,7 @@ Velo Rapido is a comprehensive web-based bike rental management system designed 
 ## 📋 Table of Contents
 
 - [Features](#-features)
-- [Project Structure](#-project-structure)
+- [Project Structure](#-project-structure) 
 - [Tech Stack](#-tech-stack)
 - [Installation & Setup](#-installation--setup)
 - [Database Structure](#-database-structure)
