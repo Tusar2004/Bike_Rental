@@ -186,5 +186,3 @@ Contributions to improve Velo Rapido are welcome. Please feel free to submit a P
 © 2025 Velo Rapido. All Rights Reserved. 🚴‍♂️✨
 
 ---
-
-Made with ❤️ by Tusar[@Tusar2004]
